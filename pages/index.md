@@ -1,10 +1,8 @@
 ---
 layout: home
-title: Welcome
+title: Welcome to Dead Music Talking
 permalink: /
 section: home
-intro_paragraph: >
-  ### Dead Music Talking  
-  
-  ##### Where I and made-up cartoon characters talk about meaning and music.
+intro_paragraph: >  
+  Where I and made-up cartoon characters talk about meaning and music.
 ---
